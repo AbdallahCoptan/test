@@ -6,3 +6,4 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.text filter=lfs diff=lfs merge=lfs -text
 *.new filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
